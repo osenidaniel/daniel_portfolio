@@ -1,78 +1,61 @@
 # 📊 Daniel Oseni – Data Analyst Portfolio
 
-Welcome to my Data Analytics Portfolio! I’m passionate about using data to uncover insights and drive strategic decisions. This portfolio showcases some of the projects I’ve worked on using tools like **SQL**, **Python**, **Power BI**, and **Excel**, along with techniques in **data cleaning**, **visualization**, and **predictive modeling**.
+Welcome to my Data Analytics portfolio! I'm a data enthusiast with a strong foundation in statistical analysis, data visualization, and business intelligence. This portfolio includes selected projects that highlight my skills in transforming data into actionable insights.
 
 ---
 
-## 📁 Projects
+## 🚀 Featured Projects
 
-### 1. 📈 Sales Performance Dashboard (Power BI)
-**Objective:** Designed an interactive dashboard to monitor regional sales trends and KPIs.  
-**Skills:** Power BI, DAX, Data Modeling  
-**Highlights:**
-- Filterable reports by time, region, and product.
-- Automated data refresh and slicer interactions.
-- Presented to stakeholders for sales strategy alignment.
-
-🔗 [View Report / Code](#)  
-📝 [Project Details](#)
+### 1. **Power BI Sales Dashboard**
+📌 *Tool:* Power BI  
+📄 *Description:* Created an interactive sales dashboard tracking KPIs by product, region, and time.  
+🔗 [View Dashboard](#)
 
 ---
 
-### 2. 🧼 Data Cleaning and Transformation with SQL
-**Objective:** Cleaned a raw sales dataset for reporting accuracy and integrated multiple sources.  
-**Skills:** SQL (JOINs, CTEs, Window Functions), Data Normalization  
-**Highlights:**
-- Identified and removed duplicates.
-- Handled missing/null values systematically.
-- Built views for downstream analytics.
-
-🔗 [SQL Scripts](#)
+### 2. **Customer Churn Prediction**
+📌 *Tool:* Python (Pandas, Scikit-learn)  
+📄 *Description:* Built a machine learning model to predict customer churn with ~89% accuracy.  
+🔗 [View Code](#)
 
 ---
 
-### 3. 🤖 Predictive Modeling – Customer Churn (Python)
-**Objective:** Predicted customer churn using machine learning algorithms.  
-**Skills:** Python, Pandas, Scikit-learn, Logistic Regression, XGBoost  
-**Highlights:**
-- Feature engineering on demographics and usage behavior.
-- Achieved 89% accuracy on test data.
-- Interpreted results using SHAP values.
-
-🔗 [Jupyter Notebook](#)  
-📊 [Model Performance](#)
+### 3. **SQL Data Cleaning & Analysis**
+📌 *Tool:* PostgreSQL  
+📄 *Description:* Cleaned and analyzed messy sales data using advanced SQL queries and CTEs.  
+🔗 [View SQL Scripts](#)
 
 ---
 
-### 4. 📉 Time Series Forecasting – ARIMA vs LSTM
-**Objective:** Forecasted stock prices using both classical and deep learning models.  
-**Skills:** Python, ARIMA, LSTM, Matplotlib  
-**Highlights:**
-- Compared traditional statistical and neural net models.
-- Visualized forecast accuracy and confidence intervals.
-
-🔗 [Notebook & Results](#)
+### 4. **Stock Price Forecasting (ARIMA vs LSTM)**
+📌 *Tool:* Python (statsmodels, Keras)  
+📄 *Description:* Modeled and compared traditional and deep learning approaches for time series forecasting.  
+🔗 [View Notebook](#)
 
 ---
 
-## 🛠 Tools & Technologies
+## 🧠 Skills & Tools
 
-- **Programming:** Python, SQL, R
-- **Visualization:** Power BI, Tableau, Matplotlib, Seaborn
-- **Machine Learning:** Scikit-learn, XGBoost, TensorFlow
-- **Data Handling:** Excel, Pandas, NumPy
-- **Databases:** MySQL, PostgreSQL, Snowflake
-- **Version Control:** Git, GitHub
+- **Languages:** Python, SQL, R  
+- **Tools:** Power BI, Excel, Tableau  
+- **Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn  
+- **Databases:** MySQL, PostgreSQL, Snowflake  
+- **Other:** Git/GitHub, Jupyter Notebooks, APIs, Data Cleaning
 
 ---
 
-## 📨 Contact
+## 🌐 Portfolio Website
+
+You can explore my full portfolio at:  
+🔗 [https://yourusername.github.io](https://yourusername.github.io)
+
+---
+
+## 📬 Contact
 
 - 📧 Email: your.email@example.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-name)  
-- 🌐 [Portfolio Website](https://your-github-username.github.io)
+- 💼 [LinkedIn](https://www.linkedin.com/in/yourname)
 
 ---
 
-> _“In God we trust. All others must bring data.” – W. Edwards Deming_
-
+> _"Without data, you're just another person with an opinion."_ – W. Edwards Deming
